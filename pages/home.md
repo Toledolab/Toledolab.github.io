@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Thompson Research Group
+title: Toledo Research Group
 description: Self-assembly and spectroscopy at St. Edward's University in Austin, TX 
 background: /assets/theme/images/austin_skyline_cropped.png
 permalink: /
