@@ -6,7 +6,7 @@ background: /assets/theme/images/SAM_logo_wide.png
 permalink: /research/
 ---
 
-### Research in the Thompson group focuses on the impact of molecular-level defects on the functionality of biomedical sensors and other nano-scale devices. 
+### Research in the Toledo group focuses on the impact of molecular-level defects on the functionality of biomedical sensors and other nano-scale devices. 
 
 The modification on solid interfaces via adsorption of organic thin films has become indispensable in a number of fields because it enables tunable control over surface properties like wettability, friction, corrosion-resistance, and other properties. Control over these properties has in turn led to significant advancements in catalysis, medicine, nanotechnology, and electronics. In biomedical technology, for example, functionalized surfaces have been instrumental in the development of materials for drug screening, immunoassays, and biosensors.
 
