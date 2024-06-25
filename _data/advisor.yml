@@ -5,7 +5,7 @@ member:
   role: 
   image: assets/theme/images/headshots/Thompson_headshot.png
   description: > # Can be Markdown
-    Becca is originally from Evanston, IL, just north of Chicago. 
+    Becca is originally from Evanston, IL, just north of Chicago. I AM MAKING SOME CHANGES HERE.
     She earned her B.A. in Chemistry from Amherst College in 2012 and then worked for two years at a healthcare software company in Madison, WI. 
     In 2014 she moved to back to Chicago to begin her Ph.D. at The University of Chicago working with [Professor Steven Sibener](http://sibener-group.uchicago.edu/). 
     Her graduate research focused on the interaction between gases and solid interfaces, with applications ranging from astrophysical ice 
@@ -13,7 +13,7 @@ member:
     St. Edward's University in Austin, TX as an assistant professor. 
   orcid: 0000-0002-5096-3396
   researchgate: Rebecca-Thompson-57
-  X: @Toledolab
+  twitter: Toledolab
   linkedin: rebecca-thompson-seu
   Lab instragram: toledoteamchem
   email: stoledo@american.edu
