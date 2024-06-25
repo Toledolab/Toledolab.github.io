@@ -1,7 +1,7 @@
 # Advisor details below will be displayed on the "advisor" page layout
 
 member:
-- name: Rebecca Thompson
+- name: Santiago Toledo
   role: 
   image: assets/theme/images/headshots/Thompson_headshot.png
   description: > # Can be Markdown
@@ -11,9 +11,10 @@ member:
     Her graduate research focused on the interaction between gases and solid interfaces, with applications ranging from astrophysical ice 
     formation to the destruction of chemical warfare agents. After receiving her doctorate in early 2020, she joined the faculty at 
     St. Edward's University in Austin, TX as an assistant professor. 
-  orcid: 0000-0002-3750-1576
+  orcid: 0000-0002-5096-3396
   researchgate: Rebecca-Thompson-57
-  twitter: _the_interface
+  X: @Toledolab
   linkedin: rebecca-thompson-seu
-  email: rthomps7@stedwards.edu
-  faculty_profile: rebecca-s-thompson
+  Lab instragram: toledoteamchem
+  email: stoledo@american.edu
+  faculty_profile: rebecca-s-thompsonbund
